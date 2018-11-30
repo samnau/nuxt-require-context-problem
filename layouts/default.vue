@@ -1,5 +1,7 @@
 <template>
   <div>
+    <h1>test</h1>
+    <img :src="imageContext('Savannah-cat-long-body-shot.jpg')">
     <nuxt/>
   </div>
 </template>
