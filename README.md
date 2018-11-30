@@ -7,9 +7,13 @@
 ``` bash
 # install dependencies
 $ yarn install
+or
+$ npm install
 
 # serve with hot reload at localhost:3000
 $ yarn run dev
+or
+$ npm run dev
 
 # build for production and launch server
 $ yarn run build
